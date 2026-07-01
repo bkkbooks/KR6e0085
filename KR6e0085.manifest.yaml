@@ -1,0 +1,148 @@
+canonical_identifier: bkk:krp/KR6e0085/v1
+canonical_location: https://kanripo.org/bkk/KR6e0085/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 華嚴經旨歸
+  identifiers:
+    alt_id:
+    - T45n1871
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T45/T45n1871.xml
+    old_id: T45n1871
+  edition:
+    short: bkk
+editions:
+- short: 甲
+  label: 甲
+  source_xml_id: wit1
+- short: 乙
+  label: 乙
+  source_xml_id: wit2
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6e0085_000.yaml, hash: 'sha256:7cd979b604f3a6b1abddbfa8e7669bf7e4d4152817666a2f5db2fc057bd20087'}
+  - {seq: 1, filename: KR6e0085_001.yaml, hash: 'sha256:d9331d8744ac865d0e3a339510590f89eeead49780119fc878758de70d9b87de'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6e0085_001.markers.yaml, hash: 'sha256:3cb5f8ed69f1bd5f7364c394e0e5ef445fe27d0320dc4761638dae1a8ba69f25'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6e0085_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 10352
+  label: 華嚴經旨歸
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0085_T_001-mulu-1
+    span:
+    - body
+    - 141
+    - 141
+  label: 1 說經處
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0085_T_001-mulu-2
+    span:
+    - body
+    - 1032
+    - 1032
+  label: 2 說經時
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0085_T_001-mulu-3
+    span:
+    - body
+    - 1726
+    - 1726
+  label: 3 說經佛
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0085_T_001-mulu-4
+    span:
+    - body
+    - 2878
+    - 2878
+  label: 4 說經眾
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0085_T_001-mulu-5
+    span:
+    - body
+    - 4141
+    - 4141
+  label: 5 說經儀
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0085_T_001-mulu-6
+    span:
+    - body
+    - 4516
+    - 4516
+  label: 6 辯經教
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0085_T_001-mulu-7
+    span:
+    - body
+    - 6187
+    - 6187
+  label: 7 顯經義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0085_T_001-mulu-8
+    span:
+    - body
+    - 7450
+    - 7450
+  label: 8 釋經意
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0085_T_001-mulu-9
+    span:
+    - body
+    - 8521
+    - 8521
+  label: 9 明經益
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0085_T_001-mulu-10
+    span:
+    - body
+    - 10056
+    - 10056
+  label: 10 示經圓
+  type: mulu
+  level: 1
+hash: sha256:e78cf9a1f2ee4eb18e9b7d006bee82886011da581008fd2ea3d891b63aa7a3aa
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

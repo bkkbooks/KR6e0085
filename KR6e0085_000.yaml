@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6e0085/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 華嚴經旨歸
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T45/T45n1871.xml
+    old_id: T45n1871
+hash: sha256:7cd979b604f3a6b1abddbfa8e7669bf7e4d4152817666a2f5db2fc057bd20087
